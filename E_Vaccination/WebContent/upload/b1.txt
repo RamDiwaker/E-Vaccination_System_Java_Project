@@ -1,0 +1,16 @@
+Bank Name : ICICI
+
+Account Holder Name: jaydeep salokhe
+Account Number : 032012548789
+
+statement Perion : 2-10-2017 to 3-11-2017
+
+Date           Description                  Withdrawals          Deposits          Balance
+2-10-2017      Previous balance             					     2000
+10-10-2017     payroll deposite                                    5000              7000
+15-10-2017     Atm withdrawal                  1000                                  6000 
+25-10-2017     telephone bill payment          1500                                  4500 
+30-10-2017     deposite                                            12000             7500
+1-10-2017      atm withdrawal                  1000                                  6500
+2-10-2017      atm withdrawal                  3500                                  3000
+3-10-2017      deposite                        10000                                13000  

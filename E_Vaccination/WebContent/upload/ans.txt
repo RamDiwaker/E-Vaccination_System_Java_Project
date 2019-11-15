@@ -1,0 +1,22 @@
+Q1:what is java?
+answer:java is platform independent language.
+Java is pure object oriented language.
+
+Q2:What are Encapsulation, Inheritance and Polymorphism?
+answer:Encapsulation is the mechanism that binds together code and data it manipulates and keeps both
+safe from outside interference and misuse. Inheritance is the process by which one object acquires
+the properties of another object. 
+
+Q3:What is method overloading and method overriding?
+answer:Method overloading= When a method in a class having the same method name with different
+arguments is said to be method overloading. Method overriding=  When a method in a class having
+the same method name with same arguments is said to be method overriding. 
+
+Q4:What is Constructor?
+answer:A constructor is a special method whose task is to initialize the object of its class.
+It is special because its name is the same as the class name.
+They do not have return types, not even void and therefore they cannot return values.
+
+Q5:What is the List interface?
+answer:The List interface provides support for ordered collections of objects.
+Lists may contain duplicate elements.
